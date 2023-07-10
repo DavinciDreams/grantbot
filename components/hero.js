@@ -12,9 +12,7 @@ const Hero = () => {
             Introducing Grant Bot: Your Ultimate Guide to Grant Applications
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Do you wish there was a simple and efficient way to navigate 
-              the world of grants and secure the funding you need? Look no further! 
-              Grant Bot is here to revolutionize the way you approach grant applications.
+            Unlock Funding Opportunities with Ease and Confidence
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
@@ -63,8 +61,8 @@ const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Powered by <span className="text-indigo-600">2000+</span>{" "}
-            customers worldwide
+            Powered by <span className="text-indigo-600">+</span>{" "}
+            next generation technology
           </div>
 
           <div className="flex flex-wrap justify-center gap-5 mt-10 md:justify-around">
