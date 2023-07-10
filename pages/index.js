@@ -28,7 +28,7 @@ const Home = () => {
       <Hero />
       <SectionTitle
         pretitle="Grant Bot Benefits"
-        title=" Why choose Grant Bot?">
+        title="Unlock Funding Opportunities with Ease and Confidence">
 Are you tired of spending countless hours researching grant opportunities, only to be overwhelmed by the complex application process? Do you wish there was a simple and efficient way to navigate the world of grants and secure the funding you need? Look no further! Grant Bot is here to revolutionize the way you approach grant applications.      </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
