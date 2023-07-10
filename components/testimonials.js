@@ -13,7 +13,7 @@ const Testimonials  = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Simplifying grant applications is a <Mark>gamechanger</Mark> for organizational efficiency. Grant Bot is like turbo tax for grants.
+              Grant Bot is a <Mark>gamechanger</Mark> for organizational efficiency, it's like turbo tax for grants.
             </p>
 
             <Avatar
@@ -27,7 +27,7 @@ const Testimonials  = () => {
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
               Grant Bot's proprietary algorithms <Mark>simplify </Mark>
-              the grant colletion process.
+              the grant application process.
             </p>
 
             <Avatar
