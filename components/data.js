@@ -11,8 +11,8 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitTwo = {
-  title: "Unlock Funding Opportunities with Ease and Confidence",
-  desc: "Say goodbye to the daunting task of sifting through endless websites, deciphering confusing guidelines, and wondering if you've missed out on crucial opportunities. Grant Bot is your trusted companion, designed to streamline the entire grant application process and maximize your chances of success.",
+  title: "Maximize Success",
+  desc: "Grant Bot is your trusted companion, designed to streamline the entire grant application process and maximize your chances of success.",
   image: benefitOneImg,
   bullets: [
     {
@@ -34,8 +34,8 @@ const benefitTwo = {
 };
 
 const benefitOne = {
-  title: "Unlock Funding Opportunities with Ease and Confidence",
-  desc: "Unlock Funding Opportunities with Ease and Confidence Using Grant Bot",
+  title: "Why Choose Grant Bot?",
+  desc: "Say goodbye to the daunting task of sifting through endless websites, deciphering confusing guidelines, and wondering if you've missed out on crucial opportunities.",
   image: benefitTwoImg,
   bullets: [
     {
