@@ -10,30 +10,30 @@ import {
 import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
-const benefitOne = {
+const benefitTwo = {
   title: "Unlock Funding Opportunities with Ease and Confidence",
-  desc: "Are you tired of spending countless hours researching grant opportunities, only to be overwhelmed by the complex application process?",
+  desc: "Say goodbye to the daunting task of sifting through endless websites, deciphering confusing guidelines, and wondering if you've missed out on crucial opportunities. Grant Bot is your trusted companion, designed to streamline the entire grant application process and maximize your chances of success.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Simple and Efficient",
-      desc: "Do you wish there was a simple and efficient way to navigate the world of grants and secure the funding you need?",
+      title: "Expert Guidance",
+      desc: "Grant Bot is like having a team of experienced grant writers by your side. Benefit from our vast knowledge base and best practices, honed from years of successful grant applications. We provide helpful tips, templates, and examples to guide you through the process, giving you the confidence to submit compelling proposals.Do you wish there was a simple and efficient way to navigate the world of grants and secure the funding you need?",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Revolutionary",
-      desc: "Grant Bot is here to revolutionize the way you approach grant applications. Say goodbye to the daunting task of sifting through endless websites, deciphering confusing guidelines, and wondering if you've missed out on crucial opportunities. ",
+      title: "Save Time and Resources",
+      desc: "Time is precious, and Grant Bot values your efficiency. By automating repetitive tasks and providing ready-to-use templates, Grant Bot enables you to complete applications in record time. Spend more time focusing on your mission and less time on paperwork, knowing that Grant Bot has your back.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Maximize Success",
-      desc: "Grant Bot is your trusted companion, designed to streamline the entire grant application process and maximize your chances of success.",
+      title: "Track Progress and Deadlines",
+      desc: "Grant Bot keeps you organized and on track. Our integrated calendar and progress tracking feature ensure you never miss a deadline. Stay informed about upcoming opportunities, important milestones, and submission dates, all in one centralized location.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
 };
 
-const benefitTwo = {
+const benefitOne = {
   title: "Why Choose Grant Bot?",
   desc: "Unlock Funding Opportunities with Ease and Confidence Using Grant Bot",
   image: benefitTwoImg,
