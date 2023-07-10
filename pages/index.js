@@ -29,7 +29,7 @@ const Home = () => {
       <SectionTitle
         pretitle="Grant Bot Benefits"
         title="Unlock Funding Opportunities with Ease and Confidence">
-Are you tired of spending countless hours researching grant opportunities, only to be overwhelmed by the complex application process? Do you wish there was a simple and efficient way to navigate the world of grants and secure the funding you need? Look no further! Grant Bot is here to revolutionize the way you approach grant applications.      </SectionTitle>
+Are you tired of spending countless hours researching grant opportunities, only to be overwhelmed by the complex application process? Do you wish there was a simple and efficient way to navigate the world of grants and secure the funding you need? Look no further! Grant Bot is here to revolutionize the way you approach grant applications.   Say goodbye to the daunting task of sifting through endless websites, deciphering confusing guidelines, and wondering if you've missed out on crucial opportunities. Grant Bot is your trusted companion, designed to streamline the entire grant application process and maximize your chances of success.   </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
