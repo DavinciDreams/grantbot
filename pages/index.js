@@ -29,8 +29,7 @@ const Home = () => {
       <SectionTitle
         pretitle="Grant Bot Benefits"
         title=" Why choose Grant Bot?">
-      Don't miss out on the funding opportunities that can turn your vision into reality. With Grant Bot, you can unlock the potential of grants and propel your organization forward. Experience the future of grant applications today!
-      </SectionTitle>
+Are you tired of spending countless hours researching grant opportunities, only to be overwhelmed by the complex application process? Do you wish there was a simple and efficient way to navigate the world of grants and secure the funding you need? Look no further! Grant Bot is here to revolutionize the way you approach grant applications.      </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
@@ -42,8 +41,9 @@ const Home = () => {
       <SectionTitle
         pretitle="Testimonials"
         title="Here's what our customers said">
-        Testimonials is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+      Don't miss out on the funding opportunities that can turn your vision into reality. 
+      With Grant Bot, you can unlock the potential of grants and propel your organization forward. 
+      Experience the future of grant applications today!
       </SectionTitle>
       <Testimonials />
       <SectionTitle 
