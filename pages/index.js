@@ -29,18 +29,14 @@ const Home = () => {
       <SectionTitle
         pretitle="Grant Bot Benefits"
         title=" Why choose Grant Bot?">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+      Don't miss out on the funding opportunities that can turn your vision into reality. With Grant Bot, you can unlock the potential of grants and propel your organization forward. Experience the future of grant applications today!
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
         pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don&apos;t forget to add one. Just like this.
+        title="Sign up for Grant Bot">
+       Sign up for Grant Bot now and embark on your journey towards funding success. Start streamlining your grant application process, accessing personalized recommendations, and taking control of your organization's future. Let Grant Bot be your trusted guide as you navigate the world of grants with confidence and ease.
       </SectionTitle>
       <Video />
       <SectionTitle
@@ -50,7 +46,9 @@ const Home = () => {
         Use this section to highlight your popular customers.
       </SectionTitle>
       <Testimonials />
-      <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
+      <SectionTitle 
+        pretitle="FAQ" 
+        title="Frequently Asked Questions">
         Answer your customers possible questions here, it will increase the
         conversion rate as well as support or chat requests.
       </SectionTitle>
