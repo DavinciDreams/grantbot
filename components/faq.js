@@ -35,17 +35,17 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "How can I sign up?",
+    answer: "Stay tuned for beta access",
   },
   {
     question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    answer: "Yes, you can.",
   },
   {
     question: "What is your refund policy? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "If you're unhappy with our service, email us within 90 days and we'll refund you in full.",
   },
   {
     question: "Do you offer technical support? ",
