@@ -61,8 +61,8 @@ const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Powered by <span className="text-indigo-600">+</span>{" "}
-            next generation technology
+            Powered by <span className="text-indigo-600">AI</span>{" "}
+            technology
           </div>
 
           <div className="flex flex-wrap justify-center gap-5 mt-10 md:justify-around">
