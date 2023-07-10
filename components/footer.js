@@ -27,14 +27,14 @@ export default function Footer() {
                       height="32"
                       className="w-8"
                     />
-                  <span>Nextly</span>
+                  <span>Grant Bot</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+            Don't miss out on the funding opportunities that can turn your vision into reality. 
+            With Grant Bot, you can unlock the potential of grants and propel your organization forward. 
+            Experience the future of grant applications today!
             </div>
 
             <div className="mt-5">
