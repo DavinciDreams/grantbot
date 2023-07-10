@@ -50,8 +50,7 @@ Are you tired of spending countless hours researching grant opportunities, only 
       <SectionTitle 
         pretitle="FAQ" 
         title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+        Answers to commonly asked questions and requests.
       </SectionTitle>
       <Faq />
       <Cta />
