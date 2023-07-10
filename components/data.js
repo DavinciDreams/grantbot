@@ -34,7 +34,7 @@ const benefitTwo = {
 };
 
 const benefitOne = {
-  title: "Why Choose Grant Bot?",
+  title: "Unlock Funding Opportunities with Ease and Confidence",
   desc: "Unlock Funding Opportunities with Ease and Confidence Using Grant Bot",
   image: benefitTwoImg,
   bullets: [
