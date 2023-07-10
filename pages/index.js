@@ -16,10 +16,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Grant Bot Landing Page</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Introducing Grant Bot: Your Ultimate Guide to Grant Applications"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -27,8 +27,8 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
-        title=" Why should you use this landing page">
+        pretitle="Grant Bot Benefits"
+        title=" Why choose Grant Bot?">
         Nextly is a free landing page & marketing website template for startups
         and indie projects. Its built with Next.js & TailwindCSS. And its
         completely open-source.
@@ -46,7 +46,7 @@ const Home = () => {
       <SectionTitle
         pretitle="Testimonials"
         title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
+        Testimonials is a great way to increase the brand trust and awareness.
         Use this section to highlight your popular customers.
       </SectionTitle>
       <Testimonials />
