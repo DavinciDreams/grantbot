@@ -27,7 +27,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Grant Bot Benefits"
+        pretitle="Grant Bot Features"
         title="Unlock Funding Opportunities with Ease and Confidence">
 Are you tired of spending countless hours researching grant opportunities, only to be overwhelmed by the complex application process? Do you wish there was a simple and efficient way to navigate the world of grants and
  secure the funding you need? Look no further! Grant Bot is here to revolutionize the way you approach grant applications. </SectionTitle>
@@ -40,8 +40,8 @@ Are you tired of spending countless hours researching grant opportunities, only 
       </SectionTitle>
       <Video />
       <SectionTitle
-        pretitle="Testimonials"
-        title="Here's what our customers said">
+        pretitle="Benefits of Grantbot"
+        title="Seize Your Opportunity">
       Don't miss out on the funding opportunities that can turn your vision into reality. 
       With Grant Bot, you can unlock the potential of grants and propel your organization forward. 
       Experience the future of grant applications today!
