@@ -12,8 +12,6 @@ const Hero = () => {
             Introducing Grant Bot: Your Ultimate Guide to Grant Applications
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-            <h2>Unlock Funding Opportunities with Ease and Confidence
-              </h2>
               Do you wish there was a simple and efficient way to navigate 
               the world of grants and secure the funding you need? Look no further! 
               Grant Bot is here to revolutionize the way you approach grant applications.
